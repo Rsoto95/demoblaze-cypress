@@ -1,0 +1,11 @@
+{
+  "products": ["Samsung galaxy s6", "Nokia lumia 1520"],
+  "customer": {
+    "name": "Roberto Soto",
+    "country": "Honduras",
+    "city": "San Pedro Sula",
+    "card": "4111111111111111",
+    "month": "12",
+    "year": "2026"
+  }
+}
